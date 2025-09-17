@@ -24,6 +24,12 @@ This project simulates a safari environment with multiple lakes, where different
 1. **Open the Solution:** Open Safari.sln in Visual Studio.
 2. **Build the Project:** Build the solution to restore dependencies and compile the code.
 3. **Run:** Start the application. Use the Welcome screen to add lakes and set their capacities, then start the simulation.
+4. **App Home Page**:  
+![Home Page](src/1.png)
+5. **Insert parameters**:  
+![Insert parameters](src/2.png)
+6. **Safari Game**:  
+![Safari Game](src/3.png)
 
 ## Usage
 
