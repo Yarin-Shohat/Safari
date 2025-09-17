@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eran Laptop\\OneDrive - post.bgu.ac.il\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D5\\\u05DE\u05D1\u05D5\u05D0 \u05DC\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05D4\u05E4\u05E2\u05DC\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Hackaton\\Safari\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF67AAF-1730-422B-868F-60B11C37B114}|Safari.csproj|c:\\users\\eran laptop\\onedrive - post.bgu.ac.il\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D5\\\u05DE\u05D1\u05D5\u05D0 \u05DC\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05D4\u05E4\u05E2\u05DC\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\hackaton\\safari\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF67AAF-1730-422B-868F-60B11C37B114}|Safari.csproj|solutionrelative:welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF67AAF-1730-422B-868F-60B11C37B114}|Safari.csproj|c:\\users\\eran laptop\\onedrive - post.bgu.ac.il\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D5\\\u05DE\u05D1\u05D5\u05D0 \u05DC\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05D4\u05E4\u05E2\u05DC\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\hackaton\\safari\\waterresource\\waterresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF67AAF-1730-422B-868F-60B11C37B114}|Safari.csproj|solutionrelative:waterresource\\waterresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF67AAF-1730-422B-868F-60B11C37B114}|Safari.csproj|c:\\users\\eran laptop\\onedrive - post.bgu.ac.il\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D5\\\u05DE\u05D1\u05D5\u05D0 \u05DC\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05D4\u05E4\u05E2\u05DC\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\hackaton\\safari\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF67AAF-1730-422B-868F-60B11C37B114}|Safari.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF67AAF-1730-422B-868F-60B11C37B114}|Safari.csproj|C:\\Users\\Eran Laptop\\OneDrive - post.bgu.ac.il\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D5\\\u05DE\u05D1\u05D5\u05D0 \u05DC\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05D4\u05E4\u05E2\u05DC\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Hackaton\\Safari\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFF67AAF-1730-422B-868F-60B11C37B114}|Safari.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF67AAF-1730-422B-868F-60B11C37B114}|Safari.csproj|c:\\users\\eran laptop\\onedrive - post.bgu.ac.il\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D5\\\u05DE\u05D1\u05D5\u05D0 \u05DC\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05D4\u05E4\u05E2\u05DC\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\hackaton\\safari\\access managers\\lakemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF67AAF-1730-422B-868F-60B11C37B114}|Safari.csproj|solutionrelative:access managers\\lakemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF67AAF-1730-422B-868F-60B11C37B114}|Safari.csproj|C:\\Users\\Eran Laptop\\OneDrive - post.bgu.ac.il\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D5\\\u05DE\u05D1\u05D5\u05D0 \u05DC\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05D4\u05E4\u05E2\u05DC\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Hackaton\\Safari\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFF67AAF-1730-422B-868F-60B11C37B114}|Safari.csproj|solutionrelative:welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF67AAF-1730-422B-868F-60B11C37B114}|Safari.csproj|c:\\users\\eran laptop\\onedrive - post.bgu.ac.il\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D5\\\u05DE\u05D1\u05D5\u05D0 \u05DC\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05D4\u05E4\u05E2\u05DC\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\hackaton\\safari\\safari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF67AAF-1730-422B-868F-60B11C37B114}|Safari.csproj|solutionrelative:safari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WaterResource.cs",
+              "DocumentMoniker": "C:\\Users\\Eran Laptop\\OneDrive - post.bgu.ac.il\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D5\\\u05DE\u05D1\u05D5\u05D0 \u05DC\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05D4\u05E4\u05E2\u05DC\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Hackaton\\Safari\\WaterResource\\WaterResource.cs",
+              "RelativeDocumentMoniker": "WaterResource\\WaterResource.cs",
+              "ToolTip": "C:\\Users\\Eran Laptop\\OneDrive - post.bgu.ac.il\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D5\\\u05DE\u05D1\u05D5\u05D0 \u05DC\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05D4\u05E4\u05E2\u05DC\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Hackaton\\Safari\\WaterResource\\WaterResource.cs",
+              "RelativeToolTip": "WaterResource\\WaterResource.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAArwBoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T16:05:36.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Safari.cs",
+              "DocumentMoniker": "C:\\Users\\Eran Laptop\\OneDrive - post.bgu.ac.il\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D5\\\u05DE\u05D1\u05D5\u05D0 \u05DC\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05D4\u05E4\u05E2\u05DC\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Hackaton\\Safari\\Safari.cs",
+              "RelativeDocumentMoniker": "Safari.cs",
+              "ToolTip": "C:\\Users\\Eran Laptop\\OneDrive - post.bgu.ac.il\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D5\\\u05DE\u05D1\u05D5\u05D0 \u05DC\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05D4\u05E4\u05E2\u05DC\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Hackaton\\Safari\\Safari.cs",
+              "RelativeToolTip": "Safari.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowGEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:06:16.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LakeManager.cs",
+              "DocumentMoniker": "C:\\Users\\Eran Laptop\\OneDrive - post.bgu.ac.il\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D5\\\u05DE\u05D1\u05D5\u05D0 \u05DC\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05D4\u05E4\u05E2\u05DC\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Hackaton\\Safari\\Access Managers\\LakeManager.cs",
+              "RelativeDocumentMoniker": "Access Managers\\LakeManager.cs",
+              "ToolTip": "C:\\Users\\Eran Laptop\\OneDrive - post.bgu.ac.il\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D5\\\u05DE\u05D1\u05D5\u05D0 \u05DC\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05D4\u05E4\u05E2\u05DC\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Hackaton\\Safari\\Access Managers\\LakeManager.cs",
+              "RelativeToolTip": "Access Managers\\LakeManager.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAArwDsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T14:49:01.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WelcomeForm.cs",
+              "DocumentMoniker": "C:\\Users\\Eran Laptop\\OneDrive - post.bgu.ac.il\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D5\\\u05DE\u05D1\u05D5\u05D0 \u05DC\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05D4\u05E4\u05E2\u05DC\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Hackaton\\Safari\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "WelcomeForm.cs",
+              "ToolTip": "C:\\Users\\Eran Laptop\\OneDrive - post.bgu.ac.il\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D5\\\u05DE\u05D1\u05D5\u05D0 \u05DC\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05D4\u05E4\u05E2\u05DC\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Hackaton\\Safari\\WelcomeForm.cs",
+              "RelativeToolTip": "WelcomeForm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAjwBQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:18:29.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WelcomeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Eran Laptop\\OneDrive - post.bgu.ac.il\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D5\\\u05DE\u05D1\u05D5\u05D0 \u05DC\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05D4\u05E4\u05E2\u05DC\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Hackaton\\Safari\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "WelcomeForm.cs",
+              "ToolTip": "C:\\Users\\Eran Laptop\\OneDrive - post.bgu.ac.il\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D5\\\u05DE\u05D1\u05D5\u05D0 \u05DC\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05D4\u05E4\u05E2\u05DC\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Hackaton\\Safari\\WelcomeForm.cs [Design]",
+              "RelativeToolTip": "WelcomeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:35:48.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Eran Laptop\\OneDrive - post.bgu.ac.il\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D5\\\u05DE\u05D1\u05D5\u05D0 \u05DC\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05D4\u05E4\u05E2\u05DC\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Hackaton\\Safari\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\Eran Laptop\\OneDrive - post.bgu.ac.il\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D5\\\u05DE\u05D1\u05D5\u05D0 \u05DC\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05D4\u05E4\u05E2\u05DC\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Hackaton\\Safari\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAUwEcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T12:20:47.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Eran Laptop\\OneDrive - post.bgu.ac.il\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D5\\\u05DE\u05D1\u05D5\u05D0 \u05DC\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05D4\u05E4\u05E2\u05DC\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Hackaton\\Safari\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\Eran Laptop\\OneDrive - post.bgu.ac.il\\\u05E9\u05E0\u05D4 \u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D5\\\u05DE\u05D1\u05D5\u05D0 \u05DC\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05D4\u05E4\u05E2\u05DC\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Hackaton\\Safari\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T12:16:59.499Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
